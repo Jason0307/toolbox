@@ -3,6 +3,6 @@
   <groupId>org.zhubao</groupId>
   <artifactId>concurrent-study</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Concurrent Study</name>
-  <description>Concurrent Study</description>
+  <name>Toolbox</name>
+  <description>Jason Toolbox</description>
 </project>
